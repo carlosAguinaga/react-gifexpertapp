@@ -35,3 +35,7 @@ input{
 .card img{
   max-height: 170px;
 }
+
+.input-search {
+  color: black
+}
